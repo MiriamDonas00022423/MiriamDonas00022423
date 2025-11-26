@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Oscar 👋</h1>
+<h1 align="center">Hi, I'm Rocio 👋</h1>
 
 <p align="center">
   <strong>Backend & Frontend Developer | IoT & Data Analysis Enthusiast</strong>
