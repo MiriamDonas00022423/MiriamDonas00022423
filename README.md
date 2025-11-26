@@ -79,34 +79,6 @@ What I enjoy working on the most:
 
 ---
 
-## 🧪 Projects
-
-### 🏥 IoT Healthcare & Triage System  
-System using Raspberry Pi + ESP32 for:
-
-- Face recognition (OpenCV + Python)
-- Patient identification
-- Sensors: DHT11, MAX30102, LDR, RFID
-- SQLite DB for patients, visits, measurements  
-- REST API communication  
-
-> *Project developed for academic and IoT integration purposes.*
-
----
-
-### 🎟️ ShinyFortnight – Event Management Platform  
-
-Full-stack web app with:
-
-- Java 17 backend (Tomcat + Jakarta EE)  
-- Secure authentication using JWT  
-- Roles: user/admin/superadmin  
-- Frontend: HTML, CSS, JS  
-- Architecture: controllers, services, repos, DTOs  
-- Security best practices: CORS, validations, rate limiting  
-
----
-
 ## 📫 Contact
 
 - 💻 **GitHub (institutional):** https://github.com/MiriamDonas00022423
